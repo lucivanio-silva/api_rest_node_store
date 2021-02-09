@@ -1,0 +1,4 @@
+Criado para fazer validações de nossos models 
+independentemente do mongoose, para criar re-
+gras, como, quantidade máxima de caracteres,
+tipos numéricos, etc.
